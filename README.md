@@ -79,8 +79,10 @@ Position	2038
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
 
+https://bitbucket.org/cmrm11/eqwarrant/downloads/EqWarrant-8.pdf
 
 
